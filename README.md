@@ -47,7 +47,7 @@ func GetBio() Bio {
 	}
 }
 ```
-
+<!--
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
@@ -92,6 +92,7 @@ func GetBio() Bio {
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p>
+-->
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
