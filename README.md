@@ -6,6 +6,8 @@
 
 <h2 align="center">About me</h2>
 
+Experience: 5 years in bakcend
+
 Location and Timezone: China (UTC+8)
 
 Email: 303snowing@gmail.com
